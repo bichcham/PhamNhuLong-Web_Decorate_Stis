@@ -5,24 +5,24 @@
 Đồ án web và framework: Cửa hàng trang trí Stis Decor
 
 ## Giới thiệu về đồ án
--Đồ án cửa hàng Decorate Stis là đồ án web đầu tiên của nhóm nên nhóm làm còn nhiều thiếu xót cũng như chưa được hoàn thiện nhiều
--Các chức năng chính của đồ án như:
-	-Giỏ hàng
-	-Admin quản lý
-	-Mua hàng
-	-Tìm kiếm sản phẩm
-	-Lọc theo danh mục
-	-...
+- Đồ án cửa hàng Decorate Stis là đồ án web đầu tiên của nhóm nên nhóm làm còn nhiều thiếu xót cũng như chưa được hoàn thiện nhiều
+- Các chức năng chính của đồ án như:
+	- Giỏ hàng
+	- Admin quản lý
+	- Mua hàng
+	- Tìm kiếm sản phẩm
+	- Lọc theo danh mục
+	- ...
 ## Giới thiệu thành viên nhóm
--Phạm Như Long		: https://www.facebook.com/phamnhulong3.3/
--Lý Trần Thanh Thảo	: https://www.facebook.com/lttthao2601
--Hoàng Ngọc Thảo Quyên	: https://www.facebook.com/Quyenn.hntq.1611
--Bùi Bích Chăm		: https://www.facebook.com/bichcham201101
-##Đánh giá theo đóng góp
--Long 30%
--Thảo 30%
--Quyên 25%
--Chăm 15%
+- Phạm Như Long		: https://www.facebook.com/phamnhulong3.3/
+- Lý Trần Thanh Thảo	: https://www.facebook.com/lttthao2601
+- Hoàng Ngọc Thảo Quyên	: https://www.facebook.com/Quyenn.hntq.1611
+- Bùi Bích Chăm		: https://www.facebook.com/bichcham201101
+## Đánh giá theo đóng góp
+- Long 30%
+- Thảo 30%
+- Quyên 25%
+- Chăm 15%
 ## Hướng dẫn cài đặt
 - Cài đặt Visual Studio 2019
 - Cài đặt SQL Server 2019

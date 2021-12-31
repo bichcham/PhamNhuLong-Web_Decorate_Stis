@@ -5,9 +5,15 @@
 @{
     List<GioHang> list_item = (List<GioHang>)ViewBag.donDH;
     int madh = ViewBag.madh;
+    Dondathang ddh = ViewBag.ddh;
 
 }
 <div class="container p-5">
+    <div>
+        <p>Tên người nhận: @ddh.TenNguoiNhan</p>
+        <p>SĐT người nhận: @ddh.SDTNguoiNhan</p>
+        <p>Địa chỉ nhận: @ddh.DiaChiNhan</p>
+    </div>
     <div class="your-order">
         <h3>Đơn hàng của bạn: @madh </h3>
         <div class="your-order-table table-responsive">

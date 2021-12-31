@@ -471,5 +471,29 @@ namespace doan.Models
             }
             return ctdh;
         }
+        public Dondathang GetDonDHbyid(int id)
+        {
+            Dondathang ddh = new Dondathang();
+            using (SqlConnection conn = GetConnection())
+            {
+                conn.Open();
+                string query = "select * from Dondathang where maddh = @id";
+                SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("id", id);
+                using (var reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        ddh.MaDdh = Convert.ToInt32(reader["MaDDH"]);
+                        ddh.TenNguoiNhan = reader["TenNguoiNhan"].ToString();
+                        ddh.SDTNguoiNhan = reader["SDTNguoiNhan"].ToString();
+                        ddh.DiaChiNhan = reader["DiaChiNhan"].ToString();
+                    }
+                    reader.Close();
+                }
+                conn.Close();
+            }
+            return ddh;
+        }
     }
 }

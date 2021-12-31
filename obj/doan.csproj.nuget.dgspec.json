@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\framework_IS220.M11_10-15bdcb4b494840688ec757454d9bcfb0854b61be\\doan.csproj": {}
+    "F:\\Nam 3\\Famewor\\DOAN\\PhamNhuLong-Web_Decorate_Stis\\doan.csproj": {}
   },
   "projects": {
-    "D:\\framework_IS220.M11_10-15bdcb4b494840688ec757454d9bcfb0854b61be\\doan.csproj": {
+    "F:\\Nam 3\\Famewor\\DOAN\\PhamNhuLong-Web_Decorate_Stis\\doan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\framework_IS220.M11_10-15bdcb4b494840688ec757454d9bcfb0854b61be\\doan.csproj",
+        "projectUniqueName": "F:\\Nam 3\\Famewor\\DOAN\\PhamNhuLong-Web_Decorate_Stis\\doan.csproj",
         "projectName": "doan",
-        "projectPath": "D:\\framework_IS220.M11_10-15bdcb4b494840688ec757454d9bcfb0854b61be\\doan.csproj",
-        "packagesPath": "C:\\Users\\longp\\.nuget\\packages\\",
-        "outputPath": "D:\\framework_IS220.M11_10-15bdcb4b494840688ec757454d9bcfb0854b61be\\obj\\",
+        "projectPath": "F:\\Nam 3\\Famewor\\DOAN\\PhamNhuLong-Web_Decorate_Stis\\doan.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\Nam 3\\Famewor\\DOAN\\PhamNhuLong-Web_Decorate_Stis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\longp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -24,6 +24,7 @@ namespace doan.Controllers
             }
             ViewBag.donDH = list;
             ViewBag.madh = madh;
+            ViewBag.ddh = context.GetDonDHbyid(madh);
             return View();
         }
     }
